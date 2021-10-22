@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Frag from './components/frag';
+import Pure from './components/Pure';
 
 
 function App() {
   return (
     <div className="App">
-      <Frag />
+      <Pure />
     </div>
   );
 }
